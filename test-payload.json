@@ -1,0 +1,24 @@
+{
+  "rows": [
+    {
+      "cells": [
+        {
+          "column": "c-hT5fpkEmzP",
+          "value": "1"
+        },
+        {
+          "column": "c-sg8IVlGaNS",
+          "value": "coda-list-docs"
+        },
+        {
+          "column": "c-2z9SKAzifs",
+          "value": "{\n  \"inGallery\": true,\n  \"isOwner\": true,\n  \"isPublished\": true\n}"
+        },
+        {
+          "column": "c-CnGkcQx_VI",
+          "value": "Retrieves a list of all docs you have access to."
+        }
+      ]
+    }
+  ]
+}
